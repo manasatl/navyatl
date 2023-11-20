@@ -1,0 +1,12 @@
+2023-11-15 14:57:03,270 [main] INFO Search - Chrome Browser Launch
+2023-11-15 14:57:06,232 [main] INFO Search - Browser window maximized
+2023-11-15 14:57:10,947 [main] INFO Search - Navigate to the Google Application
+2023-11-15 14:57:11,091 [main] INFO Search - In Google search field Enter the Tirupati Text
+2023-11-15 14:57:11,607 [main] INFO Search - Enter button pressed
+2023-11-15 14:57:13,611 [main] INFO Search - Wait for 2 Seconds..
+2023-11-15 18:41:57,003 [main] INFO Search - Chrome Browser Launch
+2023-11-15 18:41:57,158 [main] INFO Search - Browser window maximized
+2023-11-15 18:42:01,370 [main] INFO Search - Navigate to the Google Application
+2023-11-15 18:42:01,520 [main] INFO Search - In Google search field Enter the Tirupati Text
+2023-11-15 18:42:05,589 [main] INFO Search - Enter button pressed
+2023-11-15 18:42:07,604 [main] INFO Search - Wait for 2 Seconds..
